@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1_Score,ROC_AUC,Best_C,Best_Class_Weight
+0.502,0.1908713692946058,0.46,0.2697947214076246,0.4855265625,0.01,balanced
